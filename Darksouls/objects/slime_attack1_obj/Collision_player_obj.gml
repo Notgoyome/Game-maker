@@ -1,0 +1,2 @@
+
+instance_destroy(slime_attack1_obj)

@@ -1,0 +1,11 @@
+grav = 0.4;
+vsp = 0;
+hsp = 0;
+jumpspeed = 8;
+move_speed = 8;
+wallclimb = 0
+wall2climb = 0
+wallspeed = 2
+shut = 0
+//collspeed = move_speed + 1 ;
+//move_run = 7;
